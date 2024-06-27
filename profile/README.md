@@ -45,7 +45,7 @@ At Awesome, we specialize in providing innovative technological solutions in web
 <h1 align="center">🛠️ Our Development Technologies 🛠️</h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,rxjs,react,redux,flutter,css,sass,bootstrap,nest,php,rails,net,wordpress,mysql,mongodb,postgresql,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,rxjs,react,redux,flutter,css,sass,bootstrap,nest,php,ruby,rails,csharp,net,wordpress,mysql,mongodb,postgresql,aws,firebase" />
 </p>
 
 ---
