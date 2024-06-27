@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <img src="./assets/awesome.logo.png" alt="arthur logo" width="110"  height="auto" />
+    <img src="../assets/awesome.logo.png" alt="Awesome round logo" width="110"  height="auto" />
     <h1>Awesome | Software Factory</h1>
 </div>
 
