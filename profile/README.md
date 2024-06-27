@@ -9,7 +9,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## About Us 🫂
+# About Us 🫂
 
 At Awesome, we specialize in providing innovative technological solutions in web development, e-commerce, and mobile and web applications. Our mission is to drive the growth and success of our clients through excellence in the design and implementation of digital solutions.
 
@@ -28,7 +28,7 @@ At Awesome, we specialize in providing innovative technological solutions in web
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Our Services 🚀
+# Our Services 🚀
 
 - **Web Development**.
 - **Mobile Development**.
@@ -42,7 +42,7 @@ At Awesome, we specialize in providing innovative technological solutions in web
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2 align="center">🛠️ Our Development Technologies 🛠️</h2>
+<h1 align="center">🛠️ Our Development Technologies 🛠️</h1>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,rxjs,react,redux,flutter,css,sass,bootstrap,nest,php,rails,net,wordpress,mysql,mongodb,postgresql,aws,firebase" />
@@ -52,31 +52,31 @@ At Awesome, we specialize in providing innovative technological solutions in web
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Our Team 🧑‍💻
+# Our Team 🧑‍💻 | Links - LinkedIn ~ GitHub
 
 - **Founders**
-  - [Dario Ezequiel Decandido](https://www.linkedin.com/in/dario-ezequiel-decandido/) ~ @falezekiel.
-  - [Maximiliano Lambrecht](https://www.linkedin.com/in/maximiliano-lambrecht-428965115/) ~ @Maxilambrecht.
-  - [Jessica Belen Diaz](https://www.linkedin.com/in/jessica--diaz/).
+  - [Dario Ezequiel Decandido](https://www.linkedin.com/in/dario-ezequiel-decandido/) ~ [@falezekiel](https://github.com/falezekiel)
+  - [Maximiliano Lambrecht](https://www.linkedin.com/in/maximiliano-lambrecht-428965115/) ~ [@Maxilambrecht](https://github.com/Maxilambrecht)
+  - [Jessica Belen Diaz](https://www.linkedin.com/in/jessica--diaz/)
 
 - **Engineers and Developers**
-  - [Dario Ezequiel Decandido](https://www.linkedin.com/in/dario-ezequiel-decandido/) ~ @falezekiel.
-  - [Arthur ITurres](https://www.linkedin.com/in/arthuriturres/) ~ @ITurres.
-  - [Alan Rios](https://www.linkedin.com/in/alan-rios/) ~ @alanrios21.
-  - Fabian Zamudio ~ @zamudio-fabian.
-  - [Viviana Fiocchi](https://www.linkedin.com/in/viviana-fiocchi-321a43102/) ~ @VivianaFiocchi.
-  - Felix Ignacio Ugarte ~ @FelixUgarte.
-  - [Facundo Bas](https://www.linkedin.com/in/facundo-bas-a356a21b0/) ~ @facundo280.
-  - [Tobias Moreno](https://www.linkedin.com/in/tobiasmoreno/) ~ @TobiasMoreno.
-  - [Christian Almada](https://www.linkedin.com/in/christian-almada-b1637a21a/) ~ @chrisalmada10.
-  - Exequiel Ferreira ~ @Exe773.
-  - Federico Del Rincon ~ @FededelRincon.
+  - [Dario Ezequiel Decandido](https://www.linkedin.com/in/dario-ezequiel-decandido/) ~ [@falezekiel](https://github.com/falezekiel)
+  - [Arthur ITurres](https://www.linkedin.com/in/arthuriturres/) ~ [@ITurres](https://github.com/ITurres)
+  - [Alan Rios](https://www.linkedin.com/in/alan-rios/) ~ [@alanrios21](https://github.com/alanrios21)
+  - Fabian Zamudio ~ [@zamudio-fabian](https://github.com/zamudio-fabian)
+  - [Viviana Fiocchi](https://www.linkedin.com/in/viviana-fiocchi-321a43102/) ~ [@VivianaFiocchi](https://github.com/VivianaFiocchi)
+  - Felix Ignacio Ugarte ~ [@FelixUgarte](https://github.com/FelixUgarte)
+  - [Facundo Bas](https://www.linkedin.com/in/facundo-bas-a356a21b0/) ~ [@facundo280](https://github.com/facundo280)
+  - [Tobias Moreno](https://www.linkedin.com/in/tobiasmoreno/) ~ [@TobiasMoreno](https://github.com/TobiasMoreno)
+  - [Christian Almada](https://www.linkedin.com/in/christian-almada-b1637a21a/) ~ [@chrisalmada10](https://github.com/chrisalmada10)
+  - Exequiel Ferreira ~ [@Exe773](https://github.com/Exe773)
+  - Federico Del Rincon ~ [@FededelRincon](https://github.com/FededelRincon)
 
 ---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2 align="center">Let's Connect 🤝</h2>
+<h1 align="center">Let's Connect 🤝</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/company/awesome-ar/posts/?feedView=all">
